@@ -1,0 +1,120 @@
+/* body{background-color: black;
+color: rgb(255, 255, 255);}
+input[type="text"]{
+    background: transparent;
+    color: white;
+}
+input[type="text"]:focus
+{
+    background: transparent;
+} */
+
+/* mayur */
+h1{
+  margin-bottom: 34px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+}
+/* 
+.div{
+} */
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex; 
+  padding-top: 90px;
+  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-bottom: 90px;
+  color: black;
+  background-color: #d7d9e0;
+}
+.sub-main {
+    /* border-radius: 2px red solid; */
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 35%;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  padding-top: 30px;
+  /* border-radius: 60px;  */
+  background-color: white;
+}
+
+
+.input1{
+    width: 280px;
+    height: 50px;
+    border-radius: 10px;
+    /* margin-left: 20px; */
+    margin-top: 7px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+  }
+  .rbtn{
+      margin-right: 258px;
+      /* width: 0px; */
+      /* font-size: 30px; */
+      /* border: 2px red solid; */
+  }
+  .admin{
+    /* border: 2px rgb(56, 54, 54) solid; */
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-left: 0px;
+    
+  }
+  a{
+      color: #ffffff;
+      text-decoration: none;
+  }
+  a:hover{
+      color: #ffffff;
+  }
+  .lad{
+      /* padding-right: 200px; */
+      /* border: 2px red solid; */
+    margin-right: 80px;
+    width: 100px;
+}
+.ln{
+  margin-right: 73px;
+}
+.le{
+  margin-right: 76px;
+}
+.la{
+  margin-right: 90px;
+  /* color: #b103fc; */
+}
+.lp{
+    margin-right: 30px;
+    /* color: #b103fc; */
+}
+.l{
+    font-size: 24px;
+    /* text-align: center; */
+    /* padding-left: 20px; */
+    /* border: 2px red solid; */
+}
+
+.name{
+    padding-left: 70px;
+    font-size: 20px;
+}
+
+button{
+    width: 380px;
+    height: 50px;
+    /* border-radius: 60px; */
+    background-color: #b103fc;
+    color: white;
+    margin-top: 40px;
+    font-size: 25px;
+    border: none;
+}
+.login-button{
+    padding-top: 25px;
+}

@@ -1,0 +1,14 @@
+.main-box{
+    display: flex;
+    flex-direction: row;
+    border: 10px solid black;
+    border-radius: 30px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 200px;
+    padding: 30px;
+}
+.user-img{
+    height: 250px;
+    margin-left: 211px;
+}
